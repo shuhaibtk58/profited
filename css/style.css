@@ -263,6 +263,15 @@ a:focus {
   }
 }
 /* logo end */
+
+/* team */
+/* Make the paragraph text smaller */
+.small-text {
+  font-size: 16px; /* Adjust the size as needed */
+  color: #fff; /* Optional: Modify text color */
+}
+/* team end */
+
 /*end header section*/
 /* slider section */
 .slider_section {
